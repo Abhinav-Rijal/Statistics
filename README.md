@@ -1,3 +1,4 @@
 # Statistics
 Takes a random set of data, sorts in ascending order and finds AM, GM, HM, Mode, different Partition values, different dispersion values, converts discrete data to class intervals, plots Ogive curves, frequency curve, etc
-Plots probability density functions of diffrent distributions and analyses by varying parameters
+
+Plots probability density functions of different distributions and analyses by varying parameters
